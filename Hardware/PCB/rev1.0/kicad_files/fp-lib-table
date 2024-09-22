@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "keebs")(type "KiCad")(uri "${KIPRJMOD}/keebs.pretty-master")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicro.pretty-master/promicro.pretty")(options "")(descr ""))
+  (lib (name "myparts")(type "KiCad")(uri "${KIPRJMOD}/redox_footprints.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Part")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid")(options "")(descr ""))
+  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard-footprint.pretty")(options "")(descr ""))
+  (lib (name "parent")(type "KiCad")(uri "C:/Users/jrjua/Documents/Pribadi/redox-keyboard-master/redox/pcb/rev1.0/kicad_files")(options "")(descr ""))
+)

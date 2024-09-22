@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "redox_lib")(type "Legacy")(uri "${KIPRJMOD}/redox_rev1-cache.lib")(options "")(descr ""))
+  (lib (name "sofle_lib")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard-rescue.lib")(options "")(descr ""))
+)
